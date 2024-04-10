@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Final Project</string>
+
+    <string name="home_icon_content_description">Home Screen</string>
+    <string name="book_icon_content_description">Book Icon</string>
+    <string name="calendar_icon_content_description">Calender Icon</string>
+    <string name="settings_icon_content_description">Setting Icon</string>
+
+    <string name="calm_emoji_content_description">Calm</string>
+    <string name="dissatisfied_emoji_content_description">Dissatisfied</string>
+    <string name="neutral_emoji_content_description">Neutral</string>
+    <string name="stressed_emoji_content_description">Stressed</string>
+    <string name="worried_emoji_content_description">Worried</string>
+    <string name="satisfied_emoji_content_description">Satisfied</string>
+
+    <string name="mindful_memo_name">Mindful Memo</string>
+
+</resources>
